@@ -126,6 +126,14 @@
       <br />
       Bakstero
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/Wolfowy">
+      <img src="https://avatars1.githubusercontent.com/u/38795498?v=4" />
+      <br />
+      Wolfowy
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
