@@ -78,6 +78,14 @@
       <br />
       AdamSiekierski
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/datejer">
+      <img src="https://avatars0.githubusercontent.com/u/35652893?v=4" />
+      <br />
+      datejer
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
