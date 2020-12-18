@@ -150,6 +150,14 @@
       <br />
       zaxanq
     </a> 
+  </td></tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/bastek338">
+      <img src="https://avatars3.githubusercontent.com/u/36669224?v=4" />
+      <br />
+      bastek338
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
