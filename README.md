@@ -46,6 +46,14 @@
       <br />
       Wajrak-net
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/woznyjakub">
+      <img src="https://avatars2.githubusercontent.com/u/39833445?v=4" />
+      <br />
+      woznyjakub
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
