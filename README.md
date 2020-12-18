@@ -94,6 +94,14 @@
       <br />
       AleksanderSkubala
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/Celkowy">
+      <img src="https://avatars3.githubusercontent.com/u/28812904?v=4" />
+      <br />
+      Celkowy
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
