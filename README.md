@@ -30,6 +30,14 @@
       <br />
       arturssmirnovs
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/mikepijn">
+      <img src="https://avatars1.githubusercontent.com/u/22960489?v=4" />
+      <br />
+      mikepijn
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
