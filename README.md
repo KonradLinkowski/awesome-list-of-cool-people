@@ -166,6 +166,14 @@
       <br />
       peterkruse
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/szado">
+      <img src="https://avatars1.githubusercontent.com/u/20907536?v=4" />
+      <br />
+      szado
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
