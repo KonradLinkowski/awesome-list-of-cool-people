@@ -142,6 +142,14 @@
       <br />
       ABialoskorski
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/zaxanq">
+      <img src="https://avatars3.githubusercontent.com/u/20804409?v=4" />
+      <br />
+      zaxanq
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
