@@ -110,6 +110,14 @@
       <br />
       KonradBaranek
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/Iwaniukooo11">
+      <img src="https://avatars2.githubusercontent.com/u/45974414?v=4" />
+      <br />
+      Iwaniukooo11
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
