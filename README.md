@@ -14,6 +14,14 @@
       <br />
       KonradLinkowski
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/IzMichael">
+      <img src="https://avatars0.githubusercontent.com/u/57115702?v=4" />
+      <br />
+      IzMichael
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
