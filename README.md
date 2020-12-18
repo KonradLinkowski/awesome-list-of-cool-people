@@ -86,6 +86,14 @@
       <br />
       datejer
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/AleksanderSkubala">
+      <img src="https://avatars1.githubusercontent.com/u/35501014?v=4" />
+      <br />
+      AleksanderSkubala
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
