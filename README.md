@@ -134,6 +134,14 @@
       <br />
       Wolfowy
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/ABialoskorski">
+      <img src="https://avatars3.githubusercontent.com/u/40116220?v=4" />
+      <br />
+      ABialoskorski
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
