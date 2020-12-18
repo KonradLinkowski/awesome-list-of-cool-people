@@ -118,6 +118,14 @@
       <br />
       Iwaniukooo11
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/Bakstero">
+      <img src="https://avatars1.githubusercontent.com/u/43523913?v=4" />
+      <br />
+      Bakstero
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
