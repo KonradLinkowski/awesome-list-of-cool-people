@@ -54,6 +54,14 @@
       <br />
       woznyjakub
     </a> 
+  </td></tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/olafsulich">
+      <img src="https://avatars1.githubusercontent.com/u/46969484?v=4" />
+      <br />
+      olafsulich
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
