@@ -102,6 +102,14 @@
       <br />
       Celkowy
     </a> 
+  </td></tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/KonradBaranek">
+      <img src="https://avatars0.githubusercontent.com/u/28057848?v=4" />
+      <br />
+      KonradBaranek
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
