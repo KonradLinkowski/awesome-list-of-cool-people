@@ -22,6 +22,14 @@
       <br />
       IzMichael
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/arturssmirnovs">
+      <img src="https://avatars1.githubusercontent.com/u/7140344?v=4" />
+      <br />
+      arturssmirnovs
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
