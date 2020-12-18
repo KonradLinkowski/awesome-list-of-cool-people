@@ -70,6 +70,14 @@
       <br />
       Lukortech
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/AdamSiekierski">
+      <img src="https://avatars0.githubusercontent.com/u/24841038?v=4" />
+      <br />
+      AdamSiekierski
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
