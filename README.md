@@ -38,6 +38,14 @@
       <br />
       mikepijn
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/Wajrak-net">
+      <img src="https://avatars1.githubusercontent.com/u/41954395?v=4" />
+      <br />
+      Wajrak-net
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
