@@ -174,6 +174,14 @@
       <br />
       szado
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/arielkuzminski">
+      <img src="https://avatars1.githubusercontent.com/u/20773060?v=4" />
+      <br />
+      arielkuzminski
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
