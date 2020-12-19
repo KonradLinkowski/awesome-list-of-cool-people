@@ -182,6 +182,14 @@
       <br />
       arielkuzminski
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/maciekglowacki">
+      <img src="https://avatars1.githubusercontent.com/u/29459845?v=4" />
+      <br />
+      maciekglowacki
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
