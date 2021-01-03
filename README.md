@@ -190,6 +190,22 @@
       <br />
       maciekglowacki
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/EnzoVallejos">
+      <img src="https://avatars3.githubusercontent.com/u/45172106?v=4" />
+      <br />
+      EnzoVallejos
+    </a> 
+  </td></tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/DenverCoder1">
+      <img src="https://avatars0.githubusercontent.com/u/20955511?v=4" />
+      <br />
+      DenverCoder1
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
