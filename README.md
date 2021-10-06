@@ -2,8 +2,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![cool](https://img.shields.io/badge/be-cool-purple.svg)](https://shields.io/)
 [![cool](https://img.shields.io/badge/sample-text-green.svg)](https://shields.io/)
-![image](img/cool2.png)
-
 
 
 ![](./img/cool.gif)
@@ -203,10 +201,10 @@
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/KissOfD3ath">
+    <a href="https://github.com/kissofd3ath">
       <img src="https://avatars.githubusercontent.com/u/24976000?v=4" />
       <br />
-      KissOfD3ath
+      kissofd3ath
     </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
