@@ -4,7 +4,10 @@
 [![cool](https://img.shields.io/badge/sample-text-green.svg)](https://shields.io/)
 
 
-![](./img/cool.gif)
+Star this repository if you want to be cool too :shipit:
+
+
+![image](img/cool2.png)
 
 <!--START_SECTION:cool-people-->
 <table><tr>
@@ -209,7 +212,5 @@
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
-
-Star this repository if you want to be cool too :shipit:
-
 ![](./img/stonks.gif)
+![](./img/cool.gif)
