@@ -3,7 +3,7 @@
 [![cool](https://img.shields.io/badge/be-cool-purple.svg)](https://shields.io/)
 [![cool](https://img.shields.io/badge/sample-text-green.svg)](https://shields.io/)
 
-
+![image](img/cool2.png)
 ![](./img/cool.gif)
 
 <!--START_SECTION:cool-people-->
