@@ -209,6 +209,14 @@ Star this repository if you want to be cool too :shipit:
       <br />
       kissofd3ath
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/imsushant12">
+      <img src="https://avatars.githubusercontent.com/u/68695162?v=4" />
+      <br />
+      imsushant12
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
