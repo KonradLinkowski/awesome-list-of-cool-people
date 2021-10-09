@@ -228,10 +228,10 @@ Star this repository if you want to be cool too :shipit:
   </td>
 
   <td align="center">
-    <a href="https://github.com/Tiwarisonal19">
-      <img src="https://avatars.githubusercontent.com/u/66546980?v=4" />
+    <a href="https://github.com/mdArshad10">
+      <img src="https://avatars.githubusercontent.com/u/77781954?v=4" />
       <br />
-      Tiwarisonal19
+      mdArshad10
     </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
