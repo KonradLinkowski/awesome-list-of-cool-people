@@ -233,6 +233,14 @@ Star this repository if you want to be cool too :shipit:
       <br />
       mdArshad10
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/khush021">
+      <img src="https://avatars.githubusercontent.com/u/66432560?v=4" />
+      <br />
+      khush021
+    </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
 
