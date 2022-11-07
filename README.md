@@ -250,6 +250,14 @@ Star this repository if you want to be cool too :shipit:
       Krishna7852
     </a> 
   </td></tr></table>
+
+   <td align="center">
+    <a href="https://github.com/mdArshad10">
+      <img src="https://avatars.githubusercontent.com/u/77781954?v=4" />
+      <br />
+      Arshad
+    </a> 
+  </td>
 <!--END_SECTION:cool-people-->
 
 ![](./img/stonks.gif)
