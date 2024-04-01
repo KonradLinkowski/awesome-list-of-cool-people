@@ -132,14 +132,6 @@ Star this repository if you want to be cool too :shipit:
   </td>
 
   <td align="center">
-    <a href="https://github.com/Wolfowy">
-      <img src="https://avatars.githubusercontent.com/u/38795498?v=4" />
-      <br />
-      Wolfowy
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/ABialoskorski">
       <img src="https://avatars.githubusercontent.com/u/40116220?v=4" />
       <br />
@@ -153,16 +145,16 @@ Star this repository if you want to be cool too :shipit:
       <br />
       zaxanq
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/bastek338">
       <img src="https://avatars.githubusercontent.com/u/36669224?v=4" />
       <br />
       bastek338
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/szado">
       <img src="https://avatars.githubusercontent.com/u/20907536?v=4" />
@@ -201,16 +193,16 @@ Star this repository if you want to be cool too :shipit:
       <br />
       DenverCoder1
     </a> 
-  </td></tr>
-<tr>
-  <td align="center">
-    <a href="https://github.com/kissofd3ath">
-      <img src="https://avatars.githubusercontent.com/u/24976000?v=4" />
-      <br />
-      kissofd3ath
-    </a> 
   </td>
 
+  <td align="center">
+    <a href="https://github.com/ryankisslinger">
+      <img src="https://avatars.githubusercontent.com/u/24976000?v=4" />
+      <br />
+      ryankisslinger
+    </a> 
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/imsushant12">
       <img src="https://avatars.githubusercontent.com/u/68695162?v=4" />
@@ -248,6 +240,38 @@ Star this repository if you want to be cool too :shipit:
       <img src="https://avatars.githubusercontent.com/u/24426690?v=4" />
       <br />
       Krishna7852
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/tessachristina0">
+      <img src="https://avatars.githubusercontent.com/u/81567345?v=4" />
+      <br />
+      tessachristina0
+    </a> 
+  </td></tr>
+<tr>
+  <td align="center">
+    <a href="https://github.com/ELTANTAWI">
+      <img src="https://avatars.githubusercontent.com/u/106462582?v=4" />
+      <br />
+      ELTANTAWI
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/Sandalots">
+      <img src="https://avatars.githubusercontent.com/u/59518103?v=4" />
+      <br />
+      Sandalots
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/erlandyt">
+      <img src="https://avatars.githubusercontent.com/u/70699100?v=4" />
+      <br />
+      erlandyt
     </a> 
   </td></tr></table>
 <!--END_SECTION:cool-people-->
