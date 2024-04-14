@@ -20,14 +20,6 @@ Star this repository if you want to be cool too :shipit:
   </td>
 
   <td align="center">
-    <a href="https://github.com/IzMichael">
-      <img src="https://avatars.githubusercontent.com/u/57115702?v=4" />
-      <br />
-      IzMichael
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/arturssmirnovs">
       <img src="https://avatars.githubusercontent.com/u/7140344?v=4" />
       <br />
@@ -57,16 +49,16 @@ Star this repository if you want to be cool too :shipit:
       <br />
       woznyjakub
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/olafsulich">
       <img src="https://avatars.githubusercontent.com/u/46969484?v=4" />
       <br />
       olafsulich
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Lukortech">
       <img src="https://avatars.githubusercontent.com/u/26508593?v=4" />
@@ -105,16 +97,16 @@ Star this repository if you want to be cool too :shipit:
       <br />
       Celkowy
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/KonradBaranek">
       <img src="https://avatars.githubusercontent.com/u/28057848?v=4" />
       <br />
       KonradBaranek
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Iwaniukooo11">
       <img src="https://avatars.githubusercontent.com/u/45974414?v=4" />
@@ -153,16 +145,16 @@ Star this repository if you want to be cool too :shipit:
       <br />
       bastek338
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/szado">
       <img src="https://avatars.githubusercontent.com/u/20907536?v=4" />
       <br />
       szado
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/arielkuzminski">
       <img src="https://avatars.githubusercontent.com/u/20773060?v=4" />
@@ -201,16 +193,16 @@ Star this repository if you want to be cool too :shipit:
       <br />
       ryankisslinger
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/imsushant12">
       <img src="https://avatars.githubusercontent.com/u/68695162?v=4" />
       <br />
       imsushant12
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/ErfiDev">
       <img src="https://avatars.githubusercontent.com/u/73667127?v=4" />
@@ -249,16 +241,16 @@ Star this repository if you want to be cool too :shipit:
       <br />
       tessachristina0
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/ELTANTAWI">
       <img src="https://avatars.githubusercontent.com/u/106462582?v=4" />
       <br />
       ELTANTAWI
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Sandalots">
       <img src="https://avatars.githubusercontent.com/u/59518103?v=4" />
